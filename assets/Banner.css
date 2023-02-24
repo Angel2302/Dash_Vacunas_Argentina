@@ -1,0 +1,24 @@
+.banner{
+    height: 75px;
+    margin: 0px -10px 10px;
+    background-color:cadetblue;
+    border-radius: 2px;
+    display: block;
+}
+.banner h1{
+    color: white;
+    padding-top: 5px;
+    margin-left: 2%;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    align-items: center;
+    font-size: 30px;
+}
+.banner Img{
+    position: relative;
+    float: right;
+    right: 30px;
+    height: 75px;
+}

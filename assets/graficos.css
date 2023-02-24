@@ -1,0 +1,32 @@
+.grafico_barras{
+    text-align: center;
+    float: left;
+    background-color: azure;
+    width: 660px;
+    border: 2px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-radius: 8%;
+}
+.grafico_barras h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-style: italic;
+    color: black;
+}
+.grafico_pastel{
+    text-align: center;
+    float: right;
+    background-color: azure;
+    width: 660px;
+    border: 2px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-radius: 8%;
+}
+.grafico_pastel h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-style: italic;
+    color: black;
+}
