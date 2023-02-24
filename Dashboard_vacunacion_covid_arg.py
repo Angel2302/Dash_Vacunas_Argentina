@@ -8,6 +8,7 @@ from dash.dependencies import Input, Output
 data = pd.read_csv('covid19_argentina.csv')
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.Div([
